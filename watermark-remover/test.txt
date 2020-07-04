@@ -1,0 +1,7 @@
+http://link.sov5.cn/l/xR8VSySLoI
+
+https://github.com/SixQuant/nowatermark
+
+https://github.com/whitelok/watermark-remover
+
+python3 main.py --mode train --dataset demo --iters 3 --watermark_threshold 0.7 --save_result true
