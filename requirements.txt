@@ -4,7 +4,7 @@ cycler==0.10.0
 humanfriendly==4.18
 kiwisolver==1.1.0
 matplotlib==3.0.3
-numpy==1.16.3
+numpy==1.22.0
 opencv-python==4.2.0.34
 pkg-resources==0.0.0
 pyparsing==2.4.0
